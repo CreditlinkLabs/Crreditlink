@@ -47,7 +47,7 @@ Author: Internal Risk Control Analysis and On-chain Data Team
 
 ```
 ┌─────────────────────────────┐
-│  Token Interaction Analysis             │
+│  Token Interaction Analysis │
 └─────────────────────────────┘
           │
           ▼
