@@ -122,11 +122,11 @@ Author: Internal Risk Control Analysis and On-chain Data Team
 ## IX. System Diagram
 
 ```
-                ┌────────────────────────┐
+                ┌───────────────────────────────────┐
                 │  Token Real-Time Profiling System │
-                └────────────────────────┘
+                └───────────────────────────────────┘
                                 │
-           ┌───────────────┼────────────────┐
+           ┌────────────────────┼─────────────────────┐
            ▼                                          ▼                                                       
    [On-Chain Data Aggregation]        [Market Data Aggregator]
            │                                           │                                                      
