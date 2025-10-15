@@ -129,8 +129,8 @@ Author: Internal Risk Control Analysis and On-chain Data Team
            ┌────────────────────┼─────────────────────┐
            ▼                                          ▼                                                       
    [On-Chain Data Aggregation]        [Market Data Aggregator]
-           │                                           │                                                      
-           ▼                                           ▼                                                     
+           │                                          │                                                      
+           ▼                                          ▼                                                     
    MySQL + Redis  ←→  Analysis Engine  ←→  Visualization Frontend (Vue)
 ```
 
